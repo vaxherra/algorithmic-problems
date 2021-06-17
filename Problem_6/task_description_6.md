@@ -11,7 +11,7 @@ def get_min_max(ints):
     Args:
        ints(list): list of integers containing one or more integers
     """
-   pass
+    pass
 
 ```
 # Example Test Case of Ten Integers
